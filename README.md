@@ -1,6 +1,8 @@
-## Installation 
-- run `npm install` in the current directory
+# Shogi Color
 
-### Start shogi 
-- to start type `npm start` in the current directory
-- to check different game behaviours the default board state can be modified in `/src/shogiGame/helpers/gameLogic.js:16`
+## Description
+- React implementation of the shogi game (colored version)
+
+## Setup
+- run `npm install` to install packages
+- run `npm start` to start the dev server, the demo is available on http://localhost:3000
